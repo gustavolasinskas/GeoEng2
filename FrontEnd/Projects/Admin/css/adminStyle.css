@@ -1,0 +1,30 @@
+body{
+    padding:20px;
+    
+}
+
+.first-row{
+    margin-top:40px;
+}
+
+.placeholders{
+    text-align: center;
+}
+
+.sidebar > .nav > li > a{
+    padding: 20px 10px;
+}
+
+.sidebar > ul{
+    margin-top:20px;
+}
+
+img{
+    display:inline;
+    border-radius: 50%;
+}
+
+footer{
+    color:orangered;
+    margin:40px 10px 5px;
+}

@@ -1,0 +1,29 @@
+body{
+    padding-top:20px;
+    margin-bottom:50px;
+}
+
+nav{
+    background: #e5e5e5;
+    border-radius: 5px;
+    
+}
+
+.nav > li > a{
+    padding:15px 0;
+    color:#777;
+}
+
+.jumbotron{
+    background: transparent;
+    text-align: center;
+}
+
+.jumbotron .btn{
+    padding:15px 25px;
+    font-size:22px;
+}
+
+.button{
+    text-align: center;
+}

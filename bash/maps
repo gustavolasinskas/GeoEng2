@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /users/alex/code/python_scripts/useful_scripts
+python3 ./maps.py $*
+exit

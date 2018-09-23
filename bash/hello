@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cd /users/alex/code/python_scripts/templates;
+python ./hello.py;
+exit;

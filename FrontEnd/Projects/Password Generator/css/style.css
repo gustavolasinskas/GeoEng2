@@ -1,0 +1,77 @@
+body{
+    height:600px;
+    background:radial-gradient(circle, #1a82f7, #2F2727);;
+}
+
+.container{
+    width: 600px;
+    margin: 100px auto;
+}
+
+.out{
+    width:100%;
+    height:70px;
+    margin-bottom:10px;
+    text-align: center;
+    color: #f63;
+}
+
+.myBtn{
+    height:100px;
+    font-size:3em;
+    margin: 0 0 20px;
+    padding: 20px;
+}
+
+.pass{
+    padding: 20px 80px 20px 25px;
+    background-color: #f63;
+    color:white;
+    font-size:2em;
+    float:left;
+    margin-left: 0;
+    width:360px;
+}
+
+/*
+
+.pass{
+    width: 400px;
+    float: left;
+    font-size: 30px;
+    color: #fff;
+    margin-left: 0;
+    padding: 20px;
+    background-color: #f63;
+}
+*/
+
+.in{
+    padding: 8px 0px;
+    background-color: white;
+    color:#f63;
+    font-size:3em;
+    text-align: center;
+    float:right;
+    margin: 0;
+}
+
+
+/*
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    font-size: 3em;
+}
+
+.in{
+    margin: 0;
+    padding: 9px;
+    float: right;
+    text-align: center;
+    background-color: #fff;
+    color: #f63
+}
+*/
